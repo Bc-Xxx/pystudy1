@@ -1,7 +1,7 @@
 import pytest
 import sys
 from pathlib import Path
-import utils
+
 from utils.file_handler import create_test_files, read_text_file, count_files_in_dir
 
 

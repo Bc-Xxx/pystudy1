@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f7015e-1d42-497c-8c1f-d195e17e4770" name="更改" comment="。。">
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/create_sales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/只筛选销量大于50.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/处理后的销售数据.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/销售报告_2026-05-24.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/销售数据.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/销售数据2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/Day4_Excel/销售数据3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/sales_automation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/批量处理多个 Excel 文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/美化 Excel 表格.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4/读取Excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6/tests/test_file_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day6/tests/test_file_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,60 +35,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.OOP.executor": "Run",
-    "Python.day1.executor": "Run",
-    "Python.day1_1.executor": "Run",
-    "Python.day1_2.executor": "Run",
-    "Python.day1_p.executor": "Run",
-    "Python.day1_p2.executor": "Run",
-    "Python.day1_p3.executor": "Run",
-    "Python.headers基础.executor": "Run",
-    "Python.requesrts基础.executor": "Run",
-    "Python.session基础.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.异常处理.executor": "Run",
-    "Python.批量处理多个 Excel 文件.executor": "Run",
-    "Python.文件上传.executor": "Run",
-    "Python.继承.executor": "Run",
-    "Python.综合2.executor": "Run",
-    "Python.综合练习.executor": "Run",
-    "Python.美化 Excel 表格.executor": "Run",
-    "Python.装饰器.executor": "Run",
-    "Python.读取Excel.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python 测试.Python 测试 (test_fixture.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.test_file_handler.test_count_files_in_dir 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.test_file_handler.test_create_test_files 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.test_file_handler.test_read_text_file 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1_p.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1_p2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1_p3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.headers基础.executor&quot;: &quot;Run&quot;,
+    &quot;Python.requesrts基础.executor&quot;: &quot;Run&quot;,
+    &quot;Python.session基础.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.异常处理.executor&quot;: &quot;Run&quot;,
+    &quot;Python.批量处理多个 Excel 文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.文件上传.executor&quot;: &quot;Run&quot;,
+    &quot;Python.文件操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.查看文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.继承.executor&quot;: &quot;Run&quot;,
+    &quot;Python.综合2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.综合练习.executor&quot;: &quot;Run&quot;,
+    &quot;Python.美化 Excel 表格.executor&quot;: &quot;Run&quot;,
+    &quot;Python.装饰器.executor&quot;: &quot;Run&quot;,
+    &quot;Python.读取Excel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\桌面\studypy\pythonProject1\Day6\stydytest" />
       <recent name="D:\桌面\studypy\pythonProject1\day1" />
     </key>
   </component>
-  <component name="RunAnythingCache">
-    <myKeys>
-      <visibility group="Grunt" flag="true" />
-      <visibility group="Gulp" flag="true" />
-      <visibility group="HTTP 请求" flag="true" />
-      <visibility group="Node.js" flag="true" />
-      <visibility group="Run Python file" flag="true" />
-      <visibility group="Run conda command" flag="true" />
-      <visibility group="Run pip command" flag="true" />
-      <visibility group="npm" flag="true" />
-      <visibility group="yarn" flag="true" />
-      <visibility group="最近的项目" flag="true" />
-      <visibility group="运行配置" flag="true" />
-    </myKeys>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python 测试.test_file_handler.test_count_files_in_dir 的 Python 测试">
     <configuration name="装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -192,10 +174,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_file_handler.test_count_files_in_dir 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file_handler.test_count_files_in_dir&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file_handler.test_create_test_files 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file_handler.test_create_test_files&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file_handler.test_read_text_file 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file_handler.test_read_text_file&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.文件上传" />
-        <item itemvalue="Python.异常处理" />
+        <item itemvalue="Python 测试.test_file_handler.test_count_files_in_dir 的 Python 测试" />
+        <item itemvalue="Python 测试.test_file_handler.test_read_text_file 的 Python 测试" />
+        <item itemvalue="Python 测试.test_file_handler.test_create_test_files 的 Python 测试" />
         <item itemvalue="Python.综合2" />
         <item itemvalue="Python.装饰器" />
       </list>
@@ -224,6 +255,10 @@
       <workItem from="1779503129551" duration="7685000" />
       <workItem from="1779511940695" duration="30516000" />
       <workItem from="1779590890944" duration="18033000" />
+      <workItem from="1779683651482" duration="26282000" />
+      <workItem from="1779780821065" duration="115000" />
+      <workItem from="1779867651935" duration="5734000" />
+      <workItem from="1779874050483" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="。。">
       <option name="closed" value="true" />
@@ -233,7 +268,31 @@
       <option name="project" value="LOCAL" />
       <updated>1779377476065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="。。">
+      <option name="closed" value="true" />
+      <created>1779619647483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779619647483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="。。">
+      <option name="closed" value="true" />
+      <created>1779684039727</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779684039727</updated>
+    </task>
+    <task id="LOCAL-00004" summary="。。">
+      <option name="closed" value="true" />
+      <created>1779725281736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779725281736</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,14 +304,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject1$session.coverage" NAME="session基础 覆盖结果" MODIFIED="1779551933883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
-    <SUITE FILE_PATH="coverage/pythonProject1$.coverage" NAME="文件上传 覆盖结果" MODIFIED="1779604592224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
+    <SUITE FILE_PATH="coverage/pythonProject1$.coverage" NAME=" 覆盖结果" MODIFIED="1779725132514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6/tests" />
     <SUITE FILE_PATH="coverage/pythonProject1$_Excel_.coverage" NAME="批量处理多个 Excel 文件 覆盖结果" MODIFIED="1779615912155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/pythonProject1$sales_automation.coverage" NAME="sales_automation 覆盖结果" MODIFIED="1779618102120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/pythonProject1$headers.coverage" NAME="headers基础 覆盖结果" MODIFIED="1779536239461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/pythonProject1$day1_p2.coverage" NAME="day1_p2 覆盖结果" MODIFIED="1779366196251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="综合2 覆盖结果" MODIFIED="1779591236868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
+    <SUITE FILE_PATH="coverage/pythonProject1$2.coverage" NAME="综合2 覆盖结果" MODIFIED="1779690422027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/pythonProject1$requesrts.coverage" NAME="requesrts基础 覆盖结果" MODIFIED="1779537668472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/pythonProject1$day1_1.coverage" NAME="day1_1 覆盖结果" MODIFIED="1779355211787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$day1_p3.coverage" NAME="day1_p3 覆盖结果" MODIFIED="1779376764645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$conftest.coverage" NAME="conftest 覆盖结果" MODIFIED="1779690425595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
     <SUITE FILE_PATH="coverage/pythonProject1$day1_2.coverage" NAME="day1_2 覆盖结果" MODIFIED="1779356661729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject1$test.coverage" NAME="test 覆盖结果" MODIFIED="1779551789371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/pythonProject1$Excel.coverage" NAME="读取Excel 覆盖结果" MODIFIED="1779606971738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
